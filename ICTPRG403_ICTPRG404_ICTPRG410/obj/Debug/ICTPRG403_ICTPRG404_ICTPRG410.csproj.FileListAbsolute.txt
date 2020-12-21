@@ -1,0 +1,141 @@
+C:\temp\CIV\Programming 2\Skills\ICTPRG403_ICTPRG404_ICTPRG410\ICTPRG403_ICTPRG404_ICTPRG410\obj\Debug\ICTPRG403_ICTPRG404_ICTPRG410.csprojAssemblyReference.cache
+C:\temp\CIV\Programming 2\Skills\ICTPRG403_ICTPRG404_ICTPRG410\ICTPRG403_ICTPRG404_ICTPRG410\obj\Debug\App.g.cs
+C:\temp\CIV\Programming 2\Skills\ICTPRG403_ICTPRG404_ICTPRG410\ICTPRG403_ICTPRG404_ICTPRG410\obj\Debug\ICTPRG403_ICTPRG404_ICTPRG410_MarkupCompile.cache
+C:\temp\CIV\Programming 2\Skills\ICTPRG403_ICTPRG404_ICTPRG410\ICTPRG403_ICTPRG404_ICTPRG410\obj\Debug\ICTPRG403_ICTPRG404_ICTPRG410_MarkupCompile.lref
+C:\temp\CIV\Programming 2\Skills\ICTPRG403_ICTPRG404_ICTPRG410\ICTPRG403_ICTPRG404_ICTPRG410\bin\Debug\ICTPRG403_ICTPRG404_ICTPRG410.exe.config
+C:\temp\CIV\Programming 2\Skills\ICTPRG403_ICTPRG404_ICTPRG410\ICTPRG403_ICTPRG404_ICTPRG410\bin\Debug\ICTPRG403_ICTPRG404_ICTPRG410.exe
+C:\temp\CIV\Programming 2\Skills\ICTPRG403_ICTPRG404_ICTPRG410\ICTPRG403_ICTPRG404_ICTPRG410\bin\Debug\ICTPRG403_ICTPRG404_ICTPRG410.pdb
+C:\temp\CIV\Programming 2\Skills\ICTPRG403_ICTPRG404_ICTPRG410\ICTPRG403_ICTPRG404_ICTPRG410\obj\Debug\ICTPRG403_ICTPRG404_ICTPRG410.g.resources
+C:\temp\CIV\Programming 2\Skills\ICTPRG403_ICTPRG404_ICTPRG410\ICTPRG403_ICTPRG404_ICTPRG410\obj\Debug\ICTPRG403_ICTPRG404_ICTPRG410.Properties.Resources.resources
+C:\temp\CIV\Programming 2\Skills\ICTPRG403_ICTPRG404_ICTPRG410\ICTPRG403_ICTPRG404_ICTPRG410\obj\Debug\ICTPRG403_ICTPRG404_ICTPRG410.csproj.GenerateResource.cache
+C:\temp\CIV\Programming 2\Skills\ICTPRG403_ICTPRG404_ICTPRG410\ICTPRG403_ICTPRG404_ICTPRG410\obj\Debug\ICTPRG403_ICTPRG404_ICTPRG410.csproj.CoreCompileInputs.cache
+C:\temp\CIV\Programming 2\Skills\ICTPRG403_ICTPRG404_ICTPRG410\ICTPRG403_ICTPRG404_ICTPRG410\obj\Debug\ICTPRG403_ICTPRG404_ICTPRG410.exe
+C:\temp\CIV\Programming 2\Skills\ICTPRG403_ICTPRG404_ICTPRG410\ICTPRG403_ICTPRG404_ICTPRG410\obj\Debug\ICTPRG403_ICTPRG404_ICTPRG410.pdb
+C:\temp\CIV\Programming 2\Skills\ICTPRG403_ICTPRG404_ICTPRG410\ICTPRG403_ICTPRG404_ICTPRG410\obj\Debug\View\Index.g.cs
+C:\temp\CIV\Programming 2\Skills\ICTPRG403_ICTPRG404_ICTPRG410\ICTPRG403_ICTPRG404_ICTPRG410\obj\Debug\View\Index.baml
+C:\temp\CIV\Programming 2\Skills\ICTPRG403_ICTPRG404_ICTPRG410\ICTPRG403_ICTPRG404_ICTPRG410\obj\Debug\MainWindow.g.cs
+C:\temp\CIV\Programming 2\Skills\ICTPRG403_ICTPRG404_ICTPRG410\ICTPRG403_ICTPRG404_ICTPRG410\obj\Debug\View\Delete.g.cs
+C:\temp\CIV\Programming 2\Skills\ICTPRG403_ICTPRG404_ICTPRG410\ICTPRG403_ICTPRG404_ICTPRG410\obj\Debug\View\Insert.g.cs
+C:\temp\CIV\Programming 2\Skills\ICTPRG403_ICTPRG404_ICTPRG410\ICTPRG403_ICTPRG404_ICTPRG410\obj\Debug\View\Update.g.cs
+C:\temp\CIV\Programming 2\Skills\ICTPRG403_ICTPRG404_ICTPRG410\ICTPRG403_ICTPRG404_ICTPRG410\obj\Debug\MainWindow.baml
+C:\temp\CIV\Programming 2\Skills\ICTPRG403_ICTPRG404_ICTPRG410\ICTPRG403_ICTPRG404_ICTPRG410\obj\Debug\View\Delete.baml
+C:\temp\CIV\Programming 2\Skills\ICTPRG403_ICTPRG404_ICTPRG410\ICTPRG403_ICTPRG404_ICTPRG410\obj\Debug\View\Insert.baml
+C:\temp\CIV\Programming 2\Skills\ICTPRG403_ICTPRG404_ICTPRG410\ICTPRG403_ICTPRG404_ICTPRG410\obj\Debug\View\Update.baml
+C:\temp\CIV\Programming 2\Skills\ICTPRG403_ICTPRG404_ICTPRG410\ICTPRG403_ICTPRG404_ICTPRG410\obj\Debug\App.baml
+C:\temp\CIV\Programming 2\Skills\ICTPRG403_ICTPRG404_ICTPRG410_SR2\ICTPRG403_ICTPRG404_ICTPRG410\bin\Debug\ICTPRG403_ICTPRG404_ICTPRG410.exe.config
+C:\temp\CIV\Programming 2\Skills\ICTPRG403_ICTPRG404_ICTPRG410_SR2\ICTPRG403_ICTPRG404_ICTPRG410\bin\Debug\ICTPRG403_ICTPRG404_ICTPRG410.exe
+C:\temp\CIV\Programming 2\Skills\ICTPRG403_ICTPRG404_ICTPRG410_SR2\ICTPRG403_ICTPRG404_ICTPRG410\bin\Debug\ICTPRG403_ICTPRG404_ICTPRG410.pdb
+C:\temp\CIV\Programming 2\Skills\ICTPRG403_ICTPRG404_ICTPRG410_SR2\ICTPRG403_ICTPRG404_ICTPRG410\obj\Debug\ICTPRG403_ICTPRG404_ICTPRG410.csprojAssemblyReference.cache
+C:\temp\CIV\Programming 2\Skills\ICTPRG403_ICTPRG404_ICTPRG410_SR2\ICTPRG403_ICTPRG404_ICTPRG410\obj\Debug\MainWindow.g.cs
+C:\temp\CIV\Programming 2\Skills\ICTPRG403_ICTPRG404_ICTPRG410_SR2\ICTPRG403_ICTPRG404_ICTPRG410\obj\Debug\View\Delete.g.cs
+C:\temp\CIV\Programming 2\Skills\ICTPRG403_ICTPRG404_ICTPRG410_SR2\ICTPRG403_ICTPRG404_ICTPRG410\obj\Debug\View\Index.g.cs
+C:\temp\CIV\Programming 2\Skills\ICTPRG403_ICTPRG404_ICTPRG410_SR2\ICTPRG403_ICTPRG404_ICTPRG410\obj\Debug\View\Insert.g.cs
+C:\temp\CIV\Programming 2\Skills\ICTPRG403_ICTPRG404_ICTPRG410_SR2\ICTPRG403_ICTPRG404_ICTPRG410\obj\Debug\View\Update.g.cs
+C:\temp\CIV\Programming 2\Skills\ICTPRG403_ICTPRG404_ICTPRG410_SR2\ICTPRG403_ICTPRG404_ICTPRG410\obj\Debug\App.g.cs
+C:\temp\CIV\Programming 2\Skills\ICTPRG403_ICTPRG404_ICTPRG410_SR2\ICTPRG403_ICTPRG404_ICTPRG410\obj\Debug\ICTPRG403_ICTPRG404_ICTPRG410_MarkupCompile.cache
+C:\temp\CIV\Programming 2\Skills\ICTPRG403_ICTPRG404_ICTPRG410_SR2\ICTPRG403_ICTPRG404_ICTPRG410\obj\Debug\ICTPRG403_ICTPRG404_ICTPRG410_MarkupCompile.lref
+C:\temp\CIV\Programming 2\Skills\ICTPRG403_ICTPRG404_ICTPRG410_SR2\ICTPRG403_ICTPRG404_ICTPRG410\obj\Debug\App.baml
+C:\temp\CIV\Programming 2\Skills\ICTPRG403_ICTPRG404_ICTPRG410_SR2\ICTPRG403_ICTPRG404_ICTPRG410\obj\Debug\MainWindow.baml
+C:\temp\CIV\Programming 2\Skills\ICTPRG403_ICTPRG404_ICTPRG410_SR2\ICTPRG403_ICTPRG404_ICTPRG410\obj\Debug\View\Delete.baml
+C:\temp\CIV\Programming 2\Skills\ICTPRG403_ICTPRG404_ICTPRG410_SR2\ICTPRG403_ICTPRG404_ICTPRG410\obj\Debug\View\Index.baml
+C:\temp\CIV\Programming 2\Skills\ICTPRG403_ICTPRG404_ICTPRG410_SR2\ICTPRG403_ICTPRG404_ICTPRG410\obj\Debug\View\Insert.baml
+C:\temp\CIV\Programming 2\Skills\ICTPRG403_ICTPRG404_ICTPRG410_SR2\ICTPRG403_ICTPRG404_ICTPRG410\obj\Debug\View\Update.baml
+C:\temp\CIV\Programming 2\Skills\ICTPRG403_ICTPRG404_ICTPRG410_SR2\ICTPRG403_ICTPRG404_ICTPRG410\obj\Debug\ICTPRG403_ICTPRG404_ICTPRG410.g.resources
+C:\temp\CIV\Programming 2\Skills\ICTPRG403_ICTPRG404_ICTPRG410_SR2\ICTPRG403_ICTPRG404_ICTPRG410\obj\Debug\ICTPRG403_ICTPRG404_ICTPRG410.Properties.Resources.resources
+C:\temp\CIV\Programming 2\Skills\ICTPRG403_ICTPRG404_ICTPRG410_SR2\ICTPRG403_ICTPRG404_ICTPRG410\obj\Debug\ICTPRG403_ICTPRG404_ICTPRG410.csproj.GenerateResource.cache
+C:\temp\CIV\Programming 2\Skills\ICTPRG403_ICTPRG404_ICTPRG410_SR2\ICTPRG403_ICTPRG404_ICTPRG410\obj\Debug\ICTPRG403_ICTPRG404_ICTPRG410.exe
+C:\temp\CIV\Programming 2\Skills\ICTPRG403_ICTPRG404_ICTPRG410_SR2\ICTPRG403_ICTPRG404_ICTPRG410\obj\Debug\ICTPRG403_ICTPRG404_ICTPRG410.pdb
+C:\2\Skills_WPF\ICTPRG403_ICTPRG404_ICTPRG410\obj\Debug\MainWindow.g.cs
+C:\2\Skills_WPF\ICTPRG403_ICTPRG404_ICTPRG410\obj\Debug\View\Delete.g.cs
+C:\2\Skills_WPF\ICTPRG403_ICTPRG404_ICTPRG410\obj\Debug\View\Index.g.cs
+C:\2\Skills_WPF\ICTPRG403_ICTPRG404_ICTPRG410\obj\Debug\View\Insert.g.cs
+C:\2\Skills_WPF\ICTPRG403_ICTPRG404_ICTPRG410\obj\Debug\View\Update.g.cs
+C:\2\Skills_WPF\ICTPRG403_ICTPRG404_ICTPRG410\obj\Debug\App.g.cs
+C:\2\Skills_WPF\ICTPRG403_ICTPRG404_ICTPRG410\obj\Debug\ICTPRG403_ICTPRG404_ICTPRG410_MarkupCompile.cache
+C:\2\Skills_WPF\ICTPRG403_ICTPRG404_ICTPRG410\obj\Debug\ICTPRG403_ICTPRG404_ICTPRG410_MarkupCompile.lref
+C:\2\Skills_WPF\ICTPRG403_ICTPRG404_ICTPRG410\obj\Debug\ICTPRG403_ICTPRG404_ICTPRG410.exe
+C:\2\Skills_WPF\ICTPRG403_ICTPRG404_ICTPRG410\obj\Debug\ICTPRG403_ICTPRG404_ICTPRG410.pdb
+C:\2\Skills_WPF\ICTPRG403_ICTPRG404_ICTPRG410\bin\Debug\ICTPRG403_ICTPRG404_ICTPRG410.exe.config
+C:\2\Skills_WPF\ICTPRG403_ICTPRG404_ICTPRG410\bin\Debug\ICTPRG403_ICTPRG404_ICTPRG410.exe
+C:\2\Skills_WPF\ICTPRG403_ICTPRG404_ICTPRG410\bin\Debug\ICTPRG403_ICTPRG404_ICTPRG410.pdb
+C:\2\Skills_WPF\ICTPRG403_ICTPRG404_ICTPRG410\obj\Debug\App.baml
+C:\2\Skills_WPF\ICTPRG403_ICTPRG404_ICTPRG410\obj\Debug\MainWindow.baml
+C:\2\Skills_WPF\ICTPRG403_ICTPRG404_ICTPRG410\obj\Debug\View\Delete.baml
+C:\2\Skills_WPF\ICTPRG403_ICTPRG404_ICTPRG410\obj\Debug\View\Index.baml
+C:\2\Skills_WPF\ICTPRG403_ICTPRG404_ICTPRG410\obj\Debug\View\Insert.baml
+C:\2\Skills_WPF\ICTPRG403_ICTPRG404_ICTPRG410\obj\Debug\View\Update.baml
+C:\2\Skills_WPF\ICTPRG403_ICTPRG404_ICTPRG410\obj\Debug\ICTPRG403_ICTPRG404_ICTPRG410.g.resources
+C:\2\Skills_WPF\ICTPRG403_ICTPRG404_ICTPRG410\obj\Debug\ICTPRG403_ICTPRG404_ICTPRG410.Properties.Resources.resources
+C:\2\Skills_WPF\ICTPRG403_ICTPRG404_ICTPRG410\obj\Debug\ICTPRG403_ICTPRG404_ICTPRG410.csproj.GenerateResource.cache
+C:\2\Skills_WPF\ICTPRG403_ICTPRG404_ICTPRG410\obj\Debug\ICTPRG403_ICTPRG404_ICTPRG410.csproj.CoreCompileInputs.cache
+D:\TAFE\Term 2\Assessment\Programming 2\Event 3 of 3\Final\Skills_WPF\ICTPRG403_ICTPRG404_ICTPRG410\bin\Debug\ICTPRG403_ICTPRG404_ICTPRG410.exe.config
+D:\TAFE\Term 2\Assessment\Programming 2\Event 3 of 3\Final\Skills_WPF\ICTPRG403_ICTPRG404_ICTPRG410\bin\Debug\ICTPRG403_ICTPRG404_ICTPRG410.exe
+D:\TAFE\Term 2\Assessment\Programming 2\Event 3 of 3\Final\Skills_WPF\ICTPRG403_ICTPRG404_ICTPRG410\bin\Debug\ICTPRG403_ICTPRG404_ICTPRG410.pdb
+D:\TAFE\Term 2\Assessment\Programming 2\Event 3 of 3\Final\Skills_WPF\ICTPRG403_ICTPRG404_ICTPRG410\obj\Debug\ICTPRG403_ICTPRG404_ICTPRG410.csprojAssemblyReference.cache
+D:\TAFE\Term 2\Assessment\Programming 2\Event 3 of 3\Final\Skills_WPF\ICTPRG403_ICTPRG404_ICTPRG410\obj\Debug\MainWindow.g.cs
+D:\TAFE\Term 2\Assessment\Programming 2\Event 3 of 3\Final\Skills_WPF\ICTPRG403_ICTPRG404_ICTPRG410\obj\Debug\View\Delete.g.cs
+D:\TAFE\Term 2\Assessment\Programming 2\Event 3 of 3\Final\Skills_WPF\ICTPRG403_ICTPRG404_ICTPRG410\obj\Debug\View\Index.g.cs
+D:\TAFE\Term 2\Assessment\Programming 2\Event 3 of 3\Final\Skills_WPF\ICTPRG403_ICTPRG404_ICTPRG410\obj\Debug\View\Insert.g.cs
+D:\TAFE\Term 2\Assessment\Programming 2\Event 3 of 3\Final\Skills_WPF\ICTPRG403_ICTPRG404_ICTPRG410\obj\Debug\View\Update.g.cs
+D:\TAFE\Term 2\Assessment\Programming 2\Event 3 of 3\Final\Skills_WPF\ICTPRG403_ICTPRG404_ICTPRG410\obj\Debug\App.g.cs
+D:\TAFE\Term 2\Assessment\Programming 2\Event 3 of 3\Final\Skills_WPF\ICTPRG403_ICTPRG404_ICTPRG410\obj\Debug\ICTPRG403_ICTPRG404_ICTPRG410_MarkupCompile.cache
+D:\TAFE\Term 2\Assessment\Programming 2\Event 3 of 3\Final\Skills_WPF\ICTPRG403_ICTPRG404_ICTPRG410\obj\Debug\ICTPRG403_ICTPRG404_ICTPRG410_MarkupCompile.lref
+D:\TAFE\Term 2\Assessment\Programming 2\Event 3 of 3\Final\Skills_WPF\ICTPRG403_ICTPRG404_ICTPRG410\obj\Debug\App.baml
+D:\TAFE\Term 2\Assessment\Programming 2\Event 3 of 3\Final\Skills_WPF\ICTPRG403_ICTPRG404_ICTPRG410\obj\Debug\MainWindow.baml
+D:\TAFE\Term 2\Assessment\Programming 2\Event 3 of 3\Final\Skills_WPF\ICTPRG403_ICTPRG404_ICTPRG410\obj\Debug\View\Delete.baml
+D:\TAFE\Term 2\Assessment\Programming 2\Event 3 of 3\Final\Skills_WPF\ICTPRG403_ICTPRG404_ICTPRG410\obj\Debug\View\Index.baml
+D:\TAFE\Term 2\Assessment\Programming 2\Event 3 of 3\Final\Skills_WPF\ICTPRG403_ICTPRG404_ICTPRG410\obj\Debug\View\Insert.baml
+D:\TAFE\Term 2\Assessment\Programming 2\Event 3 of 3\Final\Skills_WPF\ICTPRG403_ICTPRG404_ICTPRG410\obj\Debug\View\Update.baml
+D:\TAFE\Term 2\Assessment\Programming 2\Event 3 of 3\Final\Skills_WPF\ICTPRG403_ICTPRG404_ICTPRG410\obj\Debug\ICTPRG403_ICTPRG404_ICTPRG410.g.resources
+D:\TAFE\Term 2\Assessment\Programming 2\Event 3 of 3\Final\Skills_WPF\ICTPRG403_ICTPRG404_ICTPRG410\obj\Debug\ICTPRG403_ICTPRG404_ICTPRG410.Properties.Resources.resources
+D:\TAFE\Term 2\Assessment\Programming 2\Event 3 of 3\Final\Skills_WPF\ICTPRG403_ICTPRG404_ICTPRG410\obj\Debug\ICTPRG403_ICTPRG404_ICTPRG410.csproj.GenerateResource.cache
+D:\TAFE\Term 2\Assessment\Programming 2\Event 3 of 3\Final\Skills_WPF\ICTPRG403_ICTPRG404_ICTPRG410\obj\Debug\ICTPRG403_ICTPRG404_ICTPRG410.exe
+D:\TAFE\Term 2\Assessment\Programming 2\Event 3 of 3\Final\Skills_WPF\ICTPRG403_ICTPRG404_ICTPRG410\obj\Debug\ICTPRG403_ICTPRG404_ICTPRG410.pdb
+E:\TAFE\Term 2\Assessment\Programming 2\Event 3 of 3\Final\Skills_WPF\ICTPRG403_ICTPRG404_ICTPRG410\bin\Debug\ICTPRG403_ICTPRG404_ICTPRG410.exe.config
+E:\TAFE\Term 2\Assessment\Programming 2\Event 3 of 3\Final\Skills_WPF\ICTPRG403_ICTPRG404_ICTPRG410\bin\Debug\ICTPRG403_ICTPRG404_ICTPRG410.exe
+E:\TAFE\Term 2\Assessment\Programming 2\Event 3 of 3\Final\Skills_WPF\ICTPRG403_ICTPRG404_ICTPRG410\bin\Debug\ICTPRG403_ICTPRG404_ICTPRG410.pdb
+E:\TAFE\Term 2\Assessment\Programming 2\Event 3 of 3\Final\Skills_WPF\ICTPRG403_ICTPRG404_ICTPRG410\obj\Debug\ICTPRG403_ICTPRG404_ICTPRG410.csprojAssemblyReference.cache
+E:\TAFE\Term 2\Assessment\Programming 2\Event 3 of 3\Final\Skills_WPF\ICTPRG403_ICTPRG404_ICTPRG410\obj\Debug\MainWindow.g.cs
+E:\TAFE\Term 2\Assessment\Programming 2\Event 3 of 3\Final\Skills_WPF\ICTPRG403_ICTPRG404_ICTPRG410\obj\Debug\View\Delete.g.cs
+E:\TAFE\Term 2\Assessment\Programming 2\Event 3 of 3\Final\Skills_WPF\ICTPRG403_ICTPRG404_ICTPRG410\obj\Debug\View\Index.g.cs
+E:\TAFE\Term 2\Assessment\Programming 2\Event 3 of 3\Final\Skills_WPF\ICTPRG403_ICTPRG404_ICTPRG410\obj\Debug\View\Insert.g.cs
+E:\TAFE\Term 2\Assessment\Programming 2\Event 3 of 3\Final\Skills_WPF\ICTPRG403_ICTPRG404_ICTPRG410\obj\Debug\View\Update.g.cs
+E:\TAFE\Term 2\Assessment\Programming 2\Event 3 of 3\Final\Skills_WPF\ICTPRG403_ICTPRG404_ICTPRG410\obj\Debug\App.g.cs
+E:\TAFE\Term 2\Assessment\Programming 2\Event 3 of 3\Final\Skills_WPF\ICTPRG403_ICTPRG404_ICTPRG410\obj\Debug\ICTPRG403_ICTPRG404_ICTPRG410_MarkupCompile.cache
+E:\TAFE\Term 2\Assessment\Programming 2\Event 3 of 3\Final\Skills_WPF\ICTPRG403_ICTPRG404_ICTPRG410\obj\Debug\ICTPRG403_ICTPRG404_ICTPRG410_MarkupCompile.lref
+E:\TAFE\Term 2\Assessment\Programming 2\Event 3 of 3\Final\Skills_WPF\ICTPRG403_ICTPRG404_ICTPRG410\obj\Debug\App.baml
+E:\TAFE\Term 2\Assessment\Programming 2\Event 3 of 3\Final\Skills_WPF\ICTPRG403_ICTPRG404_ICTPRG410\obj\Debug\MainWindow.baml
+E:\TAFE\Term 2\Assessment\Programming 2\Event 3 of 3\Final\Skills_WPF\ICTPRG403_ICTPRG404_ICTPRG410\obj\Debug\View\Delete.baml
+E:\TAFE\Term 2\Assessment\Programming 2\Event 3 of 3\Final\Skills_WPF\ICTPRG403_ICTPRG404_ICTPRG410\obj\Debug\View\Index.baml
+E:\TAFE\Term 2\Assessment\Programming 2\Event 3 of 3\Final\Skills_WPF\ICTPRG403_ICTPRG404_ICTPRG410\obj\Debug\View\Insert.baml
+E:\TAFE\Term 2\Assessment\Programming 2\Event 3 of 3\Final\Skills_WPF\ICTPRG403_ICTPRG404_ICTPRG410\obj\Debug\View\Update.baml
+E:\TAFE\Term 2\Assessment\Programming 2\Event 3 of 3\Final\Skills_WPF\ICTPRG403_ICTPRG404_ICTPRG410\obj\Debug\ICTPRG403_ICTPRG404_ICTPRG410.g.resources
+E:\TAFE\Term 2\Assessment\Programming 2\Event 3 of 3\Final\Skills_WPF\ICTPRG403_ICTPRG404_ICTPRG410\obj\Debug\ICTPRG403_ICTPRG404_ICTPRG410.Properties.Resources.resources
+E:\TAFE\Term 2\Assessment\Programming 2\Event 3 of 3\Final\Skills_WPF\ICTPRG403_ICTPRG404_ICTPRG410\obj\Debug\ICTPRG403_ICTPRG404_ICTPRG410.csproj.GenerateResource.cache
+E:\TAFE\Term 2\Assessment\Programming 2\Event 3 of 3\Final\Skills_WPF\ICTPRG403_ICTPRG404_ICTPRG410\obj\Debug\ICTPRG403_ICTPRG404_ICTPRG410.csproj.CoreCompileInputs.cache
+E:\TAFE\Term 2\Assessment\Programming 2\Event 3 of 3\Final\Skills_WPF\ICTPRG403_ICTPRG404_ICTPRG410\obj\Debug\ICTPRG403_ICTPRG404_ICTPRG410.exe
+E:\TAFE\Term 2\Assessment\Programming 2\Event 3 of 3\Final\Skills_WPF\ICTPRG403_ICTPRG404_ICTPRG410\obj\Debug\ICTPRG403_ICTPRG404_ICTPRG410.pdb
+C:\Users\Aticht\Documents\TAFE\TAFE\Term 2\Assessment\Programming 2\Event 3 of 3\Final\Skills_WPF\ICTPRG403_ICTPRG404_ICTPRG410\bin\Debug\ICTPRG403_ICTPRG404_ICTPRG410.exe.config
+C:\Users\Aticht\Documents\TAFE\TAFE\Term 2\Assessment\Programming 2\Event 3 of 3\Final\Skills_WPF\ICTPRG403_ICTPRG404_ICTPRG410\bin\Debug\ICTPRG403_ICTPRG404_ICTPRG410.exe
+C:\Users\Aticht\Documents\TAFE\TAFE\Term 2\Assessment\Programming 2\Event 3 of 3\Final\Skills_WPF\ICTPRG403_ICTPRG404_ICTPRG410\bin\Debug\ICTPRG403_ICTPRG404_ICTPRG410.pdb
+C:\Users\Aticht\Documents\TAFE\TAFE\Term 2\Assessment\Programming 2\Event 3 of 3\Final\Skills_WPF\ICTPRG403_ICTPRG404_ICTPRG410\obj\Debug\ICTPRG403_ICTPRG404_ICTPRG410.csprojAssemblyReference.cache
+C:\Users\Aticht\Documents\TAFE\TAFE\Term 2\Assessment\Programming 2\Event 3 of 3\Final\Skills_WPF\ICTPRG403_ICTPRG404_ICTPRG410\obj\Debug\MainWindow.g.cs
+C:\Users\Aticht\Documents\TAFE\TAFE\Term 2\Assessment\Programming 2\Event 3 of 3\Final\Skills_WPF\ICTPRG403_ICTPRG404_ICTPRG410\obj\Debug\View\Delete.g.cs
+C:\Users\Aticht\Documents\TAFE\TAFE\Term 2\Assessment\Programming 2\Event 3 of 3\Final\Skills_WPF\ICTPRG403_ICTPRG404_ICTPRG410\obj\Debug\View\Index.g.cs
+C:\Users\Aticht\Documents\TAFE\TAFE\Term 2\Assessment\Programming 2\Event 3 of 3\Final\Skills_WPF\ICTPRG403_ICTPRG404_ICTPRG410\obj\Debug\View\Insert.g.cs
+C:\Users\Aticht\Documents\TAFE\TAFE\Term 2\Assessment\Programming 2\Event 3 of 3\Final\Skills_WPF\ICTPRG403_ICTPRG404_ICTPRG410\obj\Debug\View\Update.g.cs
+C:\Users\Aticht\Documents\TAFE\TAFE\Term 2\Assessment\Programming 2\Event 3 of 3\Final\Skills_WPF\ICTPRG403_ICTPRG404_ICTPRG410\obj\Debug\App.g.cs
+C:\Users\Aticht\Documents\TAFE\TAFE\Term 2\Assessment\Programming 2\Event 3 of 3\Final\Skills_WPF\ICTPRG403_ICTPRG404_ICTPRG410\obj\Debug\ICTPRG403_ICTPRG404_ICTPRG410_MarkupCompile.cache
+C:\Users\Aticht\Documents\TAFE\TAFE\Term 2\Assessment\Programming 2\Event 3 of 3\Final\Skills_WPF\ICTPRG403_ICTPRG404_ICTPRG410\obj\Debug\ICTPRG403_ICTPRG404_ICTPRG410_MarkupCompile.lref
+C:\Users\Aticht\Documents\TAFE\TAFE\Term 2\Assessment\Programming 2\Event 3 of 3\Final\Skills_WPF\ICTPRG403_ICTPRG404_ICTPRG410\obj\Debug\App.baml
+C:\Users\Aticht\Documents\TAFE\TAFE\Term 2\Assessment\Programming 2\Event 3 of 3\Final\Skills_WPF\ICTPRG403_ICTPRG404_ICTPRG410\obj\Debug\MainWindow.baml
+C:\Users\Aticht\Documents\TAFE\TAFE\Term 2\Assessment\Programming 2\Event 3 of 3\Final\Skills_WPF\ICTPRG403_ICTPRG404_ICTPRG410\obj\Debug\View\Delete.baml
+C:\Users\Aticht\Documents\TAFE\TAFE\Term 2\Assessment\Programming 2\Event 3 of 3\Final\Skills_WPF\ICTPRG403_ICTPRG404_ICTPRG410\obj\Debug\View\Index.baml
+C:\Users\Aticht\Documents\TAFE\TAFE\Term 2\Assessment\Programming 2\Event 3 of 3\Final\Skills_WPF\ICTPRG403_ICTPRG404_ICTPRG410\obj\Debug\View\Insert.baml
+C:\Users\Aticht\Documents\TAFE\TAFE\Term 2\Assessment\Programming 2\Event 3 of 3\Final\Skills_WPF\ICTPRG403_ICTPRG404_ICTPRG410\obj\Debug\View\Update.baml
+C:\Users\Aticht\Documents\TAFE\TAFE\Term 2\Assessment\Programming 2\Event 3 of 3\Final\Skills_WPF\ICTPRG403_ICTPRG404_ICTPRG410\obj\Debug\ICTPRG403_ICTPRG404_ICTPRG410.g.resources
+C:\Users\Aticht\Documents\TAFE\TAFE\Term 2\Assessment\Programming 2\Event 3 of 3\Final\Skills_WPF\ICTPRG403_ICTPRG404_ICTPRG410\obj\Debug\ICTPRG403_ICTPRG404_ICTPRG410.Properties.Resources.resources
+C:\Users\Aticht\Documents\TAFE\TAFE\Term 2\Assessment\Programming 2\Event 3 of 3\Final\Skills_WPF\ICTPRG403_ICTPRG404_ICTPRG410\obj\Debug\ICTPRG403_ICTPRG404_ICTPRG410.csproj.GenerateResource.cache
+C:\Users\Aticht\Documents\TAFE\TAFE\Term 2\Assessment\Programming 2\Event 3 of 3\Final\Skills_WPF\ICTPRG403_ICTPRG404_ICTPRG410\obj\Debug\ICTPRG403_ICTPRG404_ICTPRG410.csproj.CoreCompileInputs.cache
+C:\Users\Aticht\Documents\TAFE\TAFE\Term 2\Assessment\Programming 2\Event 3 of 3\Final\Skills_WPF\ICTPRG403_ICTPRG404_ICTPRG410\obj\Debug\ICTPRG403_ICTPRG404_ICTPRG410.exe
+C:\Users\Aticht\Documents\TAFE\TAFE\Term 2\Assessment\Programming 2\Event 3 of 3\Final\Skills_WPF\ICTPRG403_ICTPRG404_ICTPRG410\obj\Debug\ICTPRG403_ICTPRG404_ICTPRG410.pdb
